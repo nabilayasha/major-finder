@@ -57,6 +57,40 @@
                 </div>
             </div>
             <div class="container pt-5">
+                <div class="row gy-3 mb-5">
+                    <div class="col-xl-3 col-sm-6 col-12">
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="result-point">
+                                <h3 class="mb-0">E</h3>
+                            </div>
+                            <p class="mb-0 fs-4">Ekstrovert</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6 col-12">
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="result-point">
+                                <h3 class="mb-0">S</h3>
+                            </div>
+                            <p class="mb-0 fs-4">Sensing</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6 col-12">
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="result-point">
+                                <h3 class="mb-0">F</h3>
+                            </div>
+                            <p class="mb-0 fs-4">Feeling</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-md-6 col-12">
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="result-point">
+                                <h3 class="mb-0">J</h3>
+                            </div>
+                            <p class="mb-0 fs-4">Judging</p>
+                        </div>
+                    </div>
+                </div>
                 <p class="lh-lg mb-4">
                     Individu dengan tipe kepribadian ESFJ, atau Ekstrovert, Sensing,
                     Feeling, Judging, adalah individu yang hangat, peduli, dan selalu
