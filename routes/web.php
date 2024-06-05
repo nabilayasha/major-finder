@@ -28,3 +28,9 @@ Route::get('/form', function () {
 Route::get('/result', function () {
     return view('result');
 });
+
+
+
+Route::get('/index',function() {
+    return view('layout-admin');
+});
